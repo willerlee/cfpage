@@ -3,14 +3,14 @@
     <title>blog of WL</title>
     <link href="https://test.willerlee.com/feed.xml" rel="self" />
     <link href="https://test.willerlee.com" />
-    <updated>2024-04-07T17:06:42+08:00</updated>
+    <updated>2024-04-07T17:22:29+08:00</updated>
     <author>
         <name>WLEE</name>
     </author>
     <id>https://test.willerlee.com</id>
 
     <entry>
-        <title>page two</title>
+        <title>PAGETWO</title>
         <author>
             <name>WLEE</name>
         </author>
@@ -20,7 +20,7 @@
         <updated>2024-04-07T17:06:42+08:00</updated>
             <summary>
                 <![CDATA[
-                    台九線 北宜公路大按灣 拍攝行車過彎 坪林 休息 加油 頭城 休息 羅東加油，買晚餐 住宿 羅東金普頓民宿 https://travel.ettoday.net/article/1601604.htm Day1 晚餐：甲富哥活海產 地址：269宜蘭縣冬山鄉廣興路87號 已訂位 18：30 賴小姐
+                    台九線 北宜公路大按灣 拍攝行車過彎 坪林 休息 加油 頭城 休息 羅東加油，買晚餐 住宿 羅東金普頓民宿 Day1 晚餐：甲富哥活海產 地址：269宜蘭縣冬山鄉廣興路87號 已訂位 18：30 賴小姐
                 ]]>
             </summary>
         <content type="html">
@@ -30,9 +30,7 @@
 <p class="p1">坪林 休息 加油</p>
 <p class="p1">頭城 休息</p>
 <p class="p1">羅東加油，買晚餐</p>
-<p class="p1">住宿 羅東金普頓民宿</p>
-<p class="p1">https://travel.ettoday.net/article/1601604.htm</p>
-<p class="p2"> </p>
+<p class="p1">住宿 <a href="https://travel.ettoday.net/article/1601604.htm" target="_blank" rel="noopener noreferrer">羅東金普頓民宿</a></p>
 <p class="p1"><strong>Day1 晚餐：甲富哥活海產</strong></p>
 <p class="p1"><strong>地址：</strong>269<strong>宜蘭縣冬山鄉廣興路</strong>87<strong>號</strong></p>
 <p class="p3"><strong>已訂位</strong><span class="s1"><strong> 18</strong></span><strong>：</strong><span class="s1"><strong>30 </strong></span><strong>賴小姐</strong></p>
